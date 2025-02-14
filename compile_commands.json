@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Werror",
+      "-Iinclude",
+      "-o",
+      "rte.exe",
+      "src/main.c"
+    ],
+    "directory": "/home/h3ll/code/c/racist-text-editor",
+    "file": "/home/h3ll/code/c/racist-text-editor/src/main.c",
+    "output": "/home/h3ll/code/c/racist-text-editor/rte.exe"
+  }
+]
