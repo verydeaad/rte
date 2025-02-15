@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Werror",
+      "-I/home/h3ll/code/c/racist-text-editor/include",
+      "-o",
+      "rte.exe",
+      "/home/h3ll/code/c/racist-text-editor/src/headersrc/page.c"
+    ],
+    "directory": "/home/h3ll/code/c/racist-text-editor/build",
+    "file": "/home/h3ll/code/c/racist-text-editor/src/headersrc/page.c",
+    "output": "/home/h3ll/code/c/racist-text-editor/build/rte.exe"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Werror",
+      "-I/home/h3ll/code/c/racist-text-editor/include",
+      "-o",
+      "rte.exe",
+      "/home/h3ll/code/c/racist-text-editor/src/main.c"
+    ],
+    "directory": "/home/h3ll/code/c/racist-text-editor/build",
+    "file": "/home/h3ll/code/c/racist-text-editor/src/main.c",
+    "output": "/home/h3ll/code/c/racist-text-editor/build/rte.exe"
+  }
+]
